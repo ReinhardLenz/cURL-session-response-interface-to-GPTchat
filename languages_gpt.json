@@ -1,0 +1,55 @@
+{
+  "en": {
+    "gpt1": "Question line 1",
+    "gpt2": "Question line 2",
+    "gpt3": "ASK !",
+    "gpt4": "this is a page, where the site visitor can ask questions to chatgpt (as a backend inside this page using python) and get answers",
+    "gpt5": "TRY OUT ARTIFICIAL INTELLIGENCE!",
+    "gpt6":  "this is a page where the site visitor can ask questions to chatgpt (as a backend inside this page using python php request) and get answers",
+    "gpt7": "Type your question...",
+    "gpt8": "file to be added (.xlsx or .txt):"
+
+  },
+  "fi": {
+    "gpt1": "Kysymys rivi 1",
+    "gpt2": "Kysymys rivi 2",
+    "gpt3": "kysy!",
+    "gpt4": "tämä on sivu, jossa sivuston kävijä voi esittää kysymyksiä chatgpt:lle (backendissä käyttäen python:ia) ja saada vastauksia",
+    "gpt5": "KOKEILE TEKOÄLYÄ!",
+    "gpt6": "tämä on sivu, jossa sivuston kävijä voi esittää kysymyksiä chatgpt:lle (backendissä käyttäen php curl pyyntöä) ja saada vastauksia",
+    "gpt7": "Kirjoita kysymyksesi tähän...",
+    "gpt8": "lisättävä tiedosto:(.xlsx tai .txt):"
+
+  },
+  "fr": {
+    "gpt1": "question ligne 1",
+    "gpt2": "question ligne 2",
+    "gpt3": "POSEZ !",
+    "gpt4": "c'est une page où le visiteur du site peut poser des questions à chatgpt (en tant que backend à l'intérieur de cette page en utilisant python) et obtenir des réponses",
+    "gpt5": "ESSAYER L'INTELLIGENCE ARTIFICIELLE!",
+    "gpt6": "c'est une page où le visiteur du site peut poser des questions à chatgpt (en tant que backend à l'intérieur de cette page en utilisant une requête python php) et obtenir des réponses",
+    "gpt7": "Tapez votre question ici...",
+    "gpt8": "fichier à ajouter:(.xlsx ou .txt):"
+  },
+  "ru": {
+    "gpt1": "вопрос строка1",
+    "gpt2": "вопрос строка 2",
+    "gpt3": "ЗАДАЙТЕ !",
+    "gpt4": "это страница, где посетитель сайта может задавать вопросы chatgpt (как бэкэнд внутри этой страницы с использованием python) и получать ответы",
+    "gpt5": "ПОПРОБУЙТЕ ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ !",
+    "gpt6": "это страница, где посетитель сайта может задавать вопросы chatgpt (как бэкэнд внутри этой страницы с использованием python php запроса) и получать ответы",  
+    "gpt7": "Введите ваш вопрос здесь...",
+    "gpt8": "файл для добавления: (.xlsx или .txt):"
+  },
+  "cn":{
+    "gpt1": "问题行1",
+    "gpt2": "问题行2",
+    "gpt3": "提问！",
+    "gpt4": "这是一个页面，网站访客可以向chatgpt提问（作为该页面内的后端，使用python）并获得答案",
+    "gpt5": "试试人工智能！",
+    "gpt6": "这是一个页面，网站访客可以向chatgpt提问（作为该页面内的后端，使用python php请求）并获得答案",
+    "gpt7": "在此输入您的问题...",
+    "gpt8": "要添加的文件：（.xlsx或.txt）："
+    
+  }
+}
